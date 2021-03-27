@@ -77,7 +77,7 @@ ToDo :
   </note>
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;would be the same as :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;would be the same as :
 
 ```
   <note>
@@ -91,7 +91,7 @@ ToDo :
 
 Legal Mumbo Jumbo :
 
-This softeware is published under  :
+This software is published under :  
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 
 In case you are wondering :  
