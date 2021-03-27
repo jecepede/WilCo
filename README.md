@@ -77,10 +77,10 @@ ToDo :
   </note>
 ```
 
-  would be the same as :
+&nbsp;&nbsp;would be the same as :
 
 ```
-<note>
+  <note>
      <from>Bar</from>
      <to>Foo</to>
   </note>
@@ -91,9 +91,8 @@ ToDo :
 
 Legal Mumbo Jumbo :
 
-Have fun using this :-)  
-Hopefully you can do something useful with it in your own code.  
-However, if you do, please give Jecepede some credit.  
+This softeware is published under  :
+GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 
 In case you are wondering : WilCo is a nod to Roger Wilco from Space Quest ;-)
 
