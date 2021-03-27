@@ -45,7 +45,7 @@ expectedStringList = list(expectedString.split('_ANY_'))
 
 
 #
-# Remove the empty ones
+# Remove the empty blocks
 #
 for loop in expectedStringList:
     if loop == "":
@@ -73,9 +73,9 @@ for loop in expectedStringList:
         differentBlocks.append(loop)
         foundDifferences = foundDifferences + 1
 
+
 #
-# Since a wildcard could be the last thing in expectedString,
-# we need to do something about that
+# Since a wildcard could be the last thing in expectedString, we need to do something about that
 #
 givenRebuildString += givenString[givenString.rfind(loop) + len(loop):len(givenString)]
 if expectedString[len(expectedString) - 5:len(expectedString)] == "_ANY_":
@@ -97,3 +97,4 @@ else:
     print("Nope, not even close :-(\n")
     for loop in differentBlocks:
         print("Difference found in block '{}'".format(loop))
+
