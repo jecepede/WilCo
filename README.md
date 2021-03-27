@@ -77,7 +77,7 @@ ToDo :
   </note>
 ```
 
-&nbsp;&nbsp;would be the same as :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;would be the same as :
 
 ```
   <note>
@@ -94,5 +94,6 @@ Legal Mumbo Jumbo :
 This softeware is published under  :
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 
-In case you are wondering : WilCo is a nod to Roger Wilco from Space Quest ;-)
+In case you are wondering :  
+WilCo is a nod to Roger Wilco from Space Quest ;-)
 
