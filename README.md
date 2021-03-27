@@ -75,10 +75,12 @@ ToDo :
      <to>Foo</to>
      <from>Bar</from>
   </note>
+```
 
   would be the same as :
 
-  <note>
+```
+<note>
      <from>Bar</from>
      <to>Foo</to>
   </note>
